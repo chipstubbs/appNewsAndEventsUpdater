@@ -1,3 +1,9 @@
+## Newsletter and Events Updater
+
+[Web app hosted on Firebase](https://github.com/chipstubbs/appNewsAndEventsUpdater.git)
+
+Used to update screens on compnay app to show current news letter and current events. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
